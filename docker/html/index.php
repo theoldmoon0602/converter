@@ -1,3 +1,8 @@
+<?php
+if (!file_exists('defenseflag.txt')) {
+  file_put_contents('defenseflag.txt', '');
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
