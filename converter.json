@@ -1,7 +1,0 @@
-{
-  "title": "Converter",
-  "problem": "In past days, a lot of services adopted ImageMagick and included vulnerabilities, however, my converter uses GraphicsMagick. It is more secure!",
-  "score": 0,
-  "category": "KoH",
-  "flag": "flag-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
-}
